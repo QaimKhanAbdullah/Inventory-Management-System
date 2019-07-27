@@ -1,0 +1,38 @@
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\bin\Debug\DBproject.exe.config
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\bin\Debug\DBproject.exe
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\bin\Debug\DBproject.pdb
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.exe
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.pdb
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmLogin.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmMainPannel.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmCategories.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmSubCategories.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmUnits.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmCustomers.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmProducts.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmStock.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmStockDetails.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmTransactions.resources
+c:\users\hp\documents\visual studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.frmTransactionProducts.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DBproject\DBproject\obj\x86\Debug\DBproject.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\bin\Debug\DBproject.exe.config
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\bin\Debug\DBproject.exe
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\bin\Debug\DBproject.pdb
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmLogin.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmMainPannel.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmCategories.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmSubCategories.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmUnits.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmCustomers.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmProducts.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmStock.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmStockDetails.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmTransactions.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.Properties.Resources.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.frmTransactionProducts.resources
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.csproj.GenerateResource.Cache
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.exe
+C:\Users\Abdullah Qaim Khan\Desktop\DbProject Files\DbProject Files\Code\DBproject\DBproject\obj\x86\Debug\DBproject.pdb
